@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+Latihan API JWT/.metadata/
+Latihan API JWT/oauth/.settings/
+Latihan API JWT/oauth/.classpath
+Latihan API JWT/oauth/.project
+Latihan API JWT/oauth/WebContent/WEB-INF/classes/jwk/
+Latihan API JWT/oauth/target/
+Latihan API JWT/.recommenders/caches/
+Latihan API JWT/RemoteSystemsTempFiles/.project
